@@ -8,7 +8,7 @@ Please fork this repository to your account and clone this repo in you system. A
 #### run `git add .`
 #### run `git commit`
 
-give a message
+give a message (Don't start with #)
 
 #### run `git push`
 
